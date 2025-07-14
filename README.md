@@ -112,8 +112,6 @@ streamlit run app.py
 
 
 
-<!-- Screenshots Gallery -->
-<h2 id="-screenshots">📸 Screenshots</h2>
 
 <div align="center">
   
