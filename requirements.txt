@@ -1,0 +1,25 @@
+streamlit>=1.28.0
+python-whois>=0.9.0
+shodan>=1.29.1
+ipwhois>=2.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+python-nmap>=0.7.1
+# Add to requirements.txt
+anthropic>=0.18.0
+google-generativeai>=0.3.0
+shodan>=1.29.0
+attackcti>=0.1.0
+python-nmap>=0.7.1
+streamlit
+openai
+python-dotenv
+requests
+ipwhois
+shodan
+python-whois
+speechrecognition
+reportlab
+attackcti
+anthropic
+google-generativeai
