@@ -35,21 +35,7 @@
   </a>
 </div>
 
-<!-- Floating TOC -->
-<details open>
-<summary><h2>📑 Table of Contents</h2></summary>
-  
-1. [✨ Features](#-features)
-2. [🚀 Quick Start](#-quick-start)
-3. [🛠️ Tools](#%EF%B8%8F-tools)
-4. [🧩 Tech Stack](#-tech-stack)
-5. [🌐 Deployment](#-deployment)
-6. [📸 Screenshots](#-screenshots)
-7. [🤝 Contributing](#-contributing)
-8. [📜 License](#-license)
-9. [📬 Contact](#-contact)
 
-</details>
 
 <!-- Features with Animated Icons -->
 <h2 id="-features">✨ Features</h2>
